@@ -1,0 +1,14 @@
+com\hotelbooking\hoteladminservice\repository\RoomRepository.class
+com\hotelbooking\hoteladminservice\model\Room.class
+com\hotelbooking\hoteladminservice\HotelAdminServiceApplication.class
+com\hotelbooking\hoteladminservice\config\JwtFilter.class
+com\hotelbooking\hoteladminservice\dto\AuthResponse.class
+com\hotelbooking\hoteladminservice\dto\LoginRequest.class
+com\hotelbooking\hoteladminservice\model\Admin.class
+com\hotelbooking\hoteladminservice\repository\AdminRepository.class
+com\hotelbooking\hoteladminservice\config\CustomUserDetailsService.class
+com\hotelbooking\hoteladminservice\controller\AdminController.class
+com\hotelbooking\hoteladminservice\config\JwtUtil.class
+com\hotelbooking\hoteladminservice\config\SecurityConfig.class
+com\hotelbooking\hoteladminservice\model\Hotel.class
+com\hotelbooking\hoteladminservice\repository\HotelRepository.class
